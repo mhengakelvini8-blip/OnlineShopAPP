@@ -1,1 +1,2 @@
-https://vscode.dev/github/mhengakelvini8-blip/OnlineShopAPP/blob/main/frontend
+
+ https://mhengakelvini8-blip.github.io/OnlineShopAPP/
